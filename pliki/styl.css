@@ -12,9 +12,10 @@ body {
     opacity: 1.0;
 }
 .podp {
-  position: relative;
+  position: fixed;
   display: inline-block;
   text-align: center;
+  right: 50%;
   border-bottom: 1px dashed #a6a6a6;
 }
 
