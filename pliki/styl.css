@@ -9,7 +9,8 @@ h1 {
 .podp {
   position: relative;
   display: inline-block;
-  border-bottom: 1px dotted yellow;
+  text-align: center;
+  border-bottom: 1px dotted #a6a6a6;
 }
 
 .podp .podptext {
