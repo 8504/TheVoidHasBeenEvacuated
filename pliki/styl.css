@@ -44,3 +44,10 @@ h1 {
   visibility: visible;
   opacity: 1;
 }
+.mimosrod{
+    text-align: center;
+}
+.mimosrod pre{
+    display: inline-block;
+    text-align: left;
+}
