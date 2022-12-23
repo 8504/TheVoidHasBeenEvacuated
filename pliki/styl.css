@@ -11,14 +11,11 @@ body {
     filter: alpha(opacity=100);
     opacity: 1.0;
 }
-h1 {
-	font-family: Segoe UI;
-}
 .podp {
   position: relative;
   display: inline-block;
   text-align: center;
-  border-bottom: 1px dotted #a6a6a6;
+  border-bottom: 1px dashed #a6a6a6;
 }
 
 .podp .podptext {
