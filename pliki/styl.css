@@ -23,7 +23,7 @@ h1 {
   position: absolute;
   z-index: 1;
   top: -5px;
-  left: 110%;
+  left: 105%;
   opacity: 0;
   transition: opacity 0.666s;
 }
